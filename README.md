@@ -1,4 +1,4 @@
-# *LEADS*: Learning Dynamical Systems that Generalize Across Environments
+# [*LEADS*: Learning Dynamical Systems that Generalize Across Environments](https://arxiv.org/abs/2106.04546)
 
 This repository is the official implementation of *LEADS*: Learning Dynamical Systems that Generalize Across Environments.
 
